@@ -35,4 +35,9 @@ Para ejecutar el archivo [El_biologo.py] abrirlo con el IDLE de python y ejecuta
 
 ## 3. Palindromos.py
 
-### Enunciado del problema:
+## Enunciado del problema:
+
+
+Para el ejemplo anterior, el resultado es CTTCCT porque que es el conjunto ordenado de bases adyacentes de mayor tamaño que se encuentra en ambas formas de vida.
+
+## Ejecución
